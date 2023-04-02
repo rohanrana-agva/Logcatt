@@ -1,0 +1,22 @@
+{
+  "main.css": "/static/css/main.92a48c8c.chunk.css",
+  "main.js": "/static/js/main.ba73cfca.chunk.js",
+  "main.js.map": "/static/js/main.ba73cfca.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/css/2.a5faa2fe.chunk.css": "/static/css/2.a5faa2fe.chunk.css",
+  "static/js/2.3d0c18df.chunk.js": "/static/js/2.3d0c18df.chunk.js",
+  "static/js/2.3d0c18df.chunk.js.map": "/static/js/2.3d0c18df.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.ade32c4ca91cef85d47d8a5da721e357.js": "/precache-manifest.ade32c4ca91cef85d47d8a5da721e357.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/2.a5faa2fe.chunk.css.map": "/static/css/2.a5faa2fe.chunk.css.map",
+  "static/css/main.92a48c8c.chunk.css.map": "/static/css/main.92a48c8c.chunk.css.map",
+  "static/media/AlarmIcon.png": "/static/media/AlarmIcon.b79c9928.png",
+  "static/media/LgLargeIcon.png": "/static/media/LgLargeIcon.26f4eaa6.png",
+  "static/media/Sidebar.module.css": "/static/media/background.eff21cf5.png",
+  "static/media/ddLoader.gif": "/static/media/ddLoader.f4fa235e.gif",
+  "static/media/lgnewsmall.png": "/static/media/lgnewsmall.077726b1.png",
+  "static/media/CreateProject.module.css": "/static/media/sidebar-vertical.eb45ce4d.png",
+  "static/media/sunIcon.png": "/static/media/sunIcon.b1c61800.png"
+}
